@@ -1,28 +1,9 @@
-== README
+== CartolaFC
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Previsão de quais jogadores irão bem na próxima rodada do CartolaFC.
 
-Things you may want to cover:
+A previsão é gerada automaticamente com um algoritmo que tem como base rodadas anteriores.
 
-* Ruby version
+**Contribua**
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Faça um pull request e contribua também!
