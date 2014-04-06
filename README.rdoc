@@ -4,6 +4,6 @@ Previsão de quais jogadores irão bem na próxima rodada do CartolaFC.
 
 A previsão é gerada automaticamente com um algoritmo que tem como base rodadas anteriores.
 
-**Contribua**
+*Contribua*
 
 Faça um pull request e contribua também!
